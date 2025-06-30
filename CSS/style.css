@@ -496,17 +496,6 @@ input {
 
 
 
-/* Responsive for Universal Section */
-@media (max-width: 745px) {
-  html {
-    font-size: 12px;
-  }
-}
-
-
-
-
-
 /* Responsive for Navbar Section */
 @media (max-width: 576px) {
   nav {
